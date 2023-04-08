@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NandaNxD
+- 👋 Hi, I’m @NandaN
 - 👀 I’m interested in Web Development,Android,UI designing
 - 🌱 I’m currently learning how to build drones XP...
 - 📫 How to reach me :[Nandan T S](https://www.linkedin.com/in/nandan-t-s-643345b3)
