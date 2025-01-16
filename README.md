@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandaN
-- 👀 I’m interested in Fullstack Development, React , Angular 🚀, Node.js, Typescript, Spring Boot
-- 🌱 I’m currently learning how to build drones XP...
+- 👀 I’m interested in Fullstack Development, React 🚀 , Angular, Node.js, Typescript, Spring Boot
+- 🌱 I’m currently learning how to build drones 🛬
 - 📫 How to reach me :[Nandan T S](https://www.linkedin.com/in/nandan-t-s-643345b3)
 
 <!---
