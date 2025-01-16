@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NandaN
-- 👀 I’m interested in Frontend Development, React , Angular 🚀
+- 👀 I’m interested in Fullstack Development, React , Angular 🚀, Node.js, Typescript, Spring Boot
 - 🌱 I’m currently learning how to build drones XP...
 - 📫 How to reach me :[Nandan T S](https://www.linkedin.com/in/nandan-t-s-643345b3)
 
