@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @NandaN
-- 👀 I’m a Fullstack developer with Frontend Focus
+## Who am I?
+- 👋 Hi, I’m @Nandan T S
+- 👀 I’m a Frontend Engineer ⚡️ at Daimler Truck (Ex-Mercedes Benz)
+- 🚀 I love learning new things and diving deep into things that interest me
 - 📫 How to reach me :[Nandan T S](https://www.linkedin.com/in/nandan-t-s-643345b3)
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,angular,typescript,javascript,java,c++,python&theme=dark)](https://skillicons.dev)
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=react,redux,angular,typescript,npm,vite,tailwind,html,css,js,java,cpp,python,vscode,git,github,postman,vim&theme=dark)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaNxD&layout=compact)](https://github.com/NandaNxD/github-readme-stats)
 
