@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,angular,typescript,javascript,java,c++,python&theme=dark)](https://skillicons.dev)
 
-[![Nandan's github stats](https://github-readme-stats.vercel.app/api?username=NandaNxD&show_icons=true)](https://github.com/NandaNxD/github-readme-stats)                                                                                        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaNxD&layout=compact)](https://github.com/NandaNxD/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaNxD&layout=compact)](https://github.com/NandaNxD/github-readme-stats)
 
 
 <!---
