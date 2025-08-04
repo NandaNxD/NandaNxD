@@ -5,7 +5,7 @@
 - 📫 How to reach me : [Nandan T S](https://www.linkedin.com/in/nandan-t-s-643345b3)
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=react,redux,angular,typescript,npm,vite,tailwind,html,css,js,java,cpp,python,vscode,git,github,postman,vim&theme=dark&perline=6)
+![My Skills](https://skillicons.dev/icons?i=react,redux,angular,spring,typescript,npm,vite,tailwind,html,css,js,java,cpp,python,vscode,git,github,postman,vim&theme=dark&perline=6)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaNxD&layout=compact)](https://github.com/NandaNxD/github-readme-stats)
 
