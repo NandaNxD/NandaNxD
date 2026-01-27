@@ -10,7 +10,7 @@ with 3.5+ years of experience building **scalable, reliable web systems**.
 
 ---
 
-## 🛠️ Tech Stack & Skills (Backend-Focused)
+## 🛠️ Tech Stack & Skills
 
 ### Backend & Systems
 
@@ -21,7 +21,6 @@ with 3.5+ years of experience building **scalable, reliable web systems**.
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/)
 [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com/)
 
-> REST APIs · request/response lifecycle · concurrency · performance fundamentals
 
 ---
 
