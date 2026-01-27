@@ -33,9 +33,9 @@ with 3.5+ years of experience building **scalable, reliable web systems**.
 
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
 [![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io/)
+[![Redux](https://skillicons.dev/icons?i=redux&theme=dark)](https://redux.js.org/)
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Redux](https://skillicons.dev/icons?i=redux&theme=dark)](https://redux.js.org/)
 [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com/)
