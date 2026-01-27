@@ -17,7 +17,7 @@ with 3.5+ years of experience building **scalable, reliable web systems**.
 
 ## 🛠️ Tech Stack & Skills
 
-### Backend & Systems
+### Backend
 
 [![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://spring.io/)
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.oracle.com/java/)
@@ -29,7 +29,7 @@ with 3.5+ years of experience building **scalable, reliable web systems**.
 
 ---
 
-### Frontend (Supporting Skills)
+### Frontend
 
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
 [![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io/)
