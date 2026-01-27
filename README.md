@@ -1,16 +1,69 @@
-## Who am I?
-Hi, I’m Nandan T S
--- I’m a Fullstack Engineer ⚡️ at Daimler Truck (Mercedes Benz)
--- I love learning new things and diving deep into things that interest me
--- How to reach me : [Nandan T S](https://www.linkedin.com/in/nandan-t-s-643345b3)
+## Hi, I’m Nandan T S
 
-## Skills
-![My Skills](https://skillicons.dev/icons?i=spring,java,react,redux,angular,typescript,npm,vite,tailwind,html,css,js,cpp,python,vscode,git,github,postman,vim&theme=dark&perline=6)
+I’m a **Full-Stack Engineer** at **Daimler Truck** ⚡  
+with 3.5+ years of experience building **scalable, reliable web systems**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaNxD&layout=compact)](https://github.com/NandaNxD/github-readme-stats)
+- 💻 Primary focus on **Backend Engineering (Java / Spring)**
+- 🧠 Enjoy deep-diving into **systems, networking, and internals**
+- 🚀 Strong frontend background to build end-to-end features
+- 🔗 Reach me on **[LinkedIn](https://www.linkedin.com/in/nandan-t-s-643345b3)**
 
+---
 
-<!---
-NandaNxD/NandaNxD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack & Skills (Backend-Focused)
+
+### Backend & Systems
+
+[![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://spring.io/)
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.oracle.com/java/)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
+[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com/)
+
+> REST APIs · request/response lifecycle · concurrency · performance fundamentals
+
+---
+
+### Frontend (Supporting Skills)
+
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
+[![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io/)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Redux](https://skillicons.dev/icons?i=redux&theme=dark)](https://redux.js.org/)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com/)
+
+---
+
+### Tooling & Developer Workflow
+
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
+[![Vim](https://skillicons.dev/icons?i=vim&theme=dark)](https://www.vim.org/)
+[![NPM](https://skillicons.dev/icons?i=npm&theme=dark)](https://www.npmjs.com/)
+[![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://vitejs.dev/)
+
+---
+
+## 🔍 Backend Interests
+
+- API design & validation
+- Concurrency models (threads, async, virtual threads)
+- Networking fundamentals (DNS, BGP, NAT, WebRTC basics)
+- Databases, indexing, and query performance
+- System design & architectural trade-offs
+
+---
+
+## 📊 GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaNxD&layout=compact&theme=dark)](https://github.com/NandaNxD)
+
+---
+
+✨ This repository powers my **GitHub profile README** and reflects my focus on
+**backend engineering, system design, and continuous learning**.
