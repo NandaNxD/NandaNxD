@@ -62,7 +62,4 @@ with 3.5+ years of experience building **scalable, reliable web systems**.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaNxD&layout=compact&theme=dark)](https://github.com/NandaNxD)
 
----
 
-✨ This repository powers my **GitHub profile README** and reflects my focus on
-**backend engineering, system design, and continuous learning**.
