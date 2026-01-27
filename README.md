@@ -9,13 +9,13 @@ with 3.5+ years of experience building **scalable, reliable web systems**.
 - 🔗 Reach me on **[LinkedIn](https://www.linkedin.com/in/nandan-t-s-643345b3)**
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandaNxD&layout=compact&theme=dark)](https://github.com/NandaNxD)
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### Backend
 
@@ -53,7 +53,7 @@ with 3.5+ years of experience building **scalable, reliable web systems**.
 
 ---
 
-## 🔍 Backend Interests
+## Backend Interests
 
 - API design & validation
 - Concurrency models (threads, async, virtual threads)
