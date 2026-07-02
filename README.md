@@ -1,12 +1,12 @@
 ## Hi, I’m Nandan T S
 
 I’m a **Full-Stack Engineer** at **Daimler Truck** ⚡  
-with 3.5+ years of experience building **scalable, reliable web systems**.
+with 4+ years of experience building **scalable, reliable web systems**.
 
-- 💻 Primary focus on **Backend Engineering (Java / Spring)**
-- 🧠 Enjoy deep-diving into **systems, networking, and internals**
-- 🚀 Strong frontend background to build end-to-end features
-- 🔗 Reach me on **[LinkedIn](https://www.linkedin.com/in/nandan-t-s-643345b3)**
+- Primary focus on **Backend Engineering (Java / Spring)**
+- Enjoy deep-diving into **systems, networking, and internals**
+- Strong frontend background to build end-to-end features
+- Reach me on **[LinkedIn](https://www.linkedin.com/in/nandan-t-s-643345b3)**
 
 ---
 
