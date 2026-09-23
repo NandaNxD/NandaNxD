@@ -52,9 +52,9 @@ with 4+ years of experience building **scalable, reliable web systems**.
 
 - API design & validation
 - Concurrency models (threads, async, virtual threads)
-- Networking fundamentals (DNS, BGP, NAT, WebRTC basics)
+- Networking fundamentals (DNS, NAT, WebRTC basics)
 - Databases, indexing, and query performance
-- System design & architectural trade-offs
+- System design & architectural tradeoffs
 
 
 
