@@ -48,13 +48,11 @@ with 4+ years of experience building **scalable, reliable web systems**.
 
 ---
 
-## Backend Interests
+## Backend
 
-- API design & validation
+- LLD & HLD
 - Concurrency models (threads, async, virtual threads)
 - Networking fundamentals (DNS, NAT, WebRTC basics)
 - Databases, indexing, and query performance
-- System design & architectural tradeoffs
-
 
 
