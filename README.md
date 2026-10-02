@@ -1,6 +1,6 @@
 ## Hi, I’m Nandan T S
 
-I’m a **Full-Stack Engineer** at **Daimler Truck** ⚡  
+I’m a **Full-Stack Engineer** at **Oracle** ⚡  
 with 4+ years of experience building **scalable, reliable web systems**.
 
 - Primary focus on **Backend Engineering (Java / Spring)**
